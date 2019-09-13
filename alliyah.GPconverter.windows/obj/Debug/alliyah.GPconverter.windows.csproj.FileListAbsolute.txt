@@ -1,0 +1,15 @@
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\bin\Debug\alliyah.GPconverter.windows.exe.config
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\bin\Debug\alliyah.GPconverter.windows.exe
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\bin\Debug\alliyah.GPconverter.windows.pdb
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows.csprojAssemblyReference.cache
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\App.g.cs
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows_MarkupCompile.cache
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows_MarkupCompile.lref
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows.g.resources
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows.Properties.Resources.resources
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows.csproj.GenerateResource.cache
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows.exe
+C:\Users\COMLABPC6\source\repos\alliyah.GPconverter.windows\alliyah.GPconverter.windows\obj\Debug\alliyah.GPconverter.windows.pdb
